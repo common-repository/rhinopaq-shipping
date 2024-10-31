@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rhinopaq for WooCommerce\n"
+"POT-Creation-Date: 2022-04-01\n"
+"PO-Revision-Date: 2023-12-10 16:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pr-dhl-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+# rhinopaq-functions.php
+
+msgid "Creating a new product for rhinopaq did not work. Please <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">contact us</a> for support."
+msgstr "Ein neues Produkt für rhinopaq anzulegen hat leider nicht funktioniert. Bitte <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">kontaktiere uns</a> für Support."
+
+msgid "Creating a new variant for rhinopaq did not work. Please <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">contact us</a> for support."
+msgstr "Eine neue Produktvariante für rhinopaq anzulegen hat leider nicht funktioniert. Bitte <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">kontaktiere uns</a> für Support."
+
+# rhinopaq-config.php
+
+msgid "<strong>Pop-up</strong>: For customization take a look in the Wordpress customizer in the <a href=\"%s\" target=\"_blank\">rhinopaq section</a>."
+msgstr "<strong>Pop-up</strong>: Anpassungen können im Wordpress-Customizer im <a href=\"%s\" target=\"_blank\">rhinopaq-Bereich</a> vorgenommen werden."
+
+msgid "<strong>Product image</strong>: The small image in the checkout for the position of the reusable packaging corresponds to the product photo."
+msgstr "<strong>Produktbild</strong>: Das kleine Bild beim Check-Out für die Position der Mehrwegverpackung entspricht dem Produktfoto."
+
+msgid "<strong>Product title</strong>: The title for the reusable packaging position also corresponds to the title of the product (same field as for the title of the pop-up)."
+msgstr "<strong>Produkttitel</strong>: Der Titel für die Position der Mehrwegverpackung entspricht auch dem Titel des Produkts (gleiches Feld wie für den Titel des Pop-ups)."
+
+msgid "<strong>Surcharge</strong>: The price per use can be customized via the created <a href=\"%s\" target=\"_blank\">product</a>. It is the regular product price. Here you can choose 0,00 € or a surcharge."
+msgstr "<strong>Aufpreis</strong>: Der Preis pro Nutzung kann über das erstellte Produkt angepasst werden. Es ist der reguläre Preis der Produktvarianten. Hier kannst du 0,00 € oder einen Aufpreis wählen."
+
+msgid "The product could not be found. Please <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">contact us</a> for support."
+msgstr "Das Produkt konnte nicht gefunden werden. Bitte <a href=\"https://www.rhinopaq.com/kontakt/\" target=\"_blank\">kontaktiere uns</a> für Unterstützung."
+
+msgid "rhinopaq Settings"
+msgstr "rhinopaq Einstellungen"
+
+msgid "On this page the essential settings for the rhinopaq Shipping Plugin can be set. rhinopaq is only available in Germany and Austria by default and is only offered to users from these countries."
+msgstr "Auf dieser Seite können die wesentlichen Einstellungen für das rhinopaq Shipping Plugin vorgenommen werden. rhinopaq ist standardmäßig nur in Deutschland und Österreich verfügbar und wird nur Benutzer:innen aus diesen Ländern angeboten."
+
+msgid "Enable this packaging method for reusable packaging by rhinopaq."
+msgstr "Aktiviere diese Verpackungsmethode für Mehrwegverpackungen von rhinopaq."
+
+msgid "Check-Out Settings"
+msgstr "Check-Out Einstellungen"
+
+msgid "Check-Out Settings of this plugin."
+msgstr "Die Check-Out Einstellungen dieses Plugins."
+
+msgid "Generated automatically. The product ID of the reusable shipping packaging. Adjust only if necessary."
+msgstr "Automatisch generiert. Die Produkt-ID der wiederverwendbaren Versandverpackung. Nur anpassen, wenn nötig."
+
+msgid "Enable rhinopaq as a standard. There will be no pop up during the checkout. rhinopaq will always be added for reusable packaging."
+msgstr "Aktiviere rhinopaq als Standard. Es wird kein Pop-up im Check-Out angezeigt. rhinopaq wird immer für Mehrwegverpackungen hinzugefügt."
+
+msgid "Packaging Settings"
+msgstr "Verpackungseinstellungen"
+
+msgid "Select the rhinopaq packaging sizes that you currently hold and offer."
+msgstr "Wähle die rhinopaq Verpackungsgrößen aus, die du derzeit vorrätig hast und anbieten möchtest."
+
+msgid "35 x 20 x 5 cm (rhino-b-35x20x5)"
+msgstr "35 x 20 x 5 cm (rhino-b-35x20x5)"
+
+msgid "Generated automatically. The variant ID of the reusable shipping packaging (rhino-b-35x20x5). Adjust only if necessary."
+msgstr "Automatisch generiert. Die Varianten-ID der wiederverwendbaren Versandverpackung (rhino-b-35x20x5). Nur anpassen, wenn nötig."
+
+msgid "25 x 25 x 10 cm (rhino-b-25x25x10)"
+msgstr "25 x 25 x 10 cm (rhino-b-25x25x10)"
+
+msgid "Generated automatically. The variant ID of the reusable shipping packaging (rhino-b-25x25x10). Adjust only if necessary."
+msgstr "Automatisch generiert. Die Varianten-ID der wiederverwendbaren Versandverpackung (rhino-b-25x25x10). Nur anpassen, wenn nötig."
+
+msgid "Smart rhinopaq Settings"
+msgstr "Smart rhinopaq Einstellungen"
+
+msgid "Smart rhinopaq Settings of this plugin."
+msgstr "Smart rhinopaq Einstellungen dieses Plugins."
+
+msgid "Enable the smart rhinopaq calculation. If not enabled, there will always be a pop up in the checkout asking to choose between single use and reusable packaging."
+msgstr "Aktiviere die smarte rhinopaq Berechnung. Wenn nicht aktiviert, wird immer ein Pop-up im Check-Out erscheinen, das zur Auswahl zwischen Einweg- und Mehrwegverpackung auffordert."
+
+msgid "The unique plugin id provided by rhinopaq."
+msgstr "Die Plugin-ID, die von rhinopaq bereitgestellt wird."
+
+msgid "Please enter your rhinopaq Plugin ID to use the smart rhinopaq function. <a href=\"https://www.rhinopaq.com/kontakt\" target=\"_blank\">Contact us</a> if you do not have an ID or need assistance with setting up the plugin."
+msgstr "Bitte gib deine rhinopaq Plugin-ID ein, um die smarte rhinopaq-Funktion zu nutzen. <a href=\"https://www.rhinopaq.com/kontakt\" target=\"_blank\">Kontaktiere uns</a>, falls du keine ID hast oder Unterstützung bei der Einrichtung des Plugins benötigst."
+
+msgid "Note: Please enter your rhinopaq Plugin ID to use the smart rhinopaq function. <a href=\"https://www.rhinopaq.com/kontakt\" target=\"_blank\">Contact us</a> if you do not have an ID or need assistance with setting up the plugin."
+msgstr "Bitte gib deine rhinopaq Plugin-ID ein, um die smarte rhinopaq-Funktion zu nutzen. <a href=\"https://www.rhinopaq.com/kontakt\" target=\"_blank\">Kontaktiere uns</a>, falls du keine ID hast oder Unterstützung bei der Einrichtung des Plugins benötigst."
+
+msgid "The clearance in percent to adjust shipping tolerance to decide using a rhinopaq. Should be set as default to 5."
+msgstr "Die Toleranz in Prozent des Volumens für die Entscheidung zur Nutzung eines rhinopaq. Sollte standardmäßig auf 5 eingestellt sein. Kann ebenfalls für die Berücksichtigung von Füllmaterial genutzt werden."
+
+msgid "Smart rhinopaq Privacy"
+msgstr "Smart rhinopaq Datenschutzerklärung"
+
+msgid "Smart rhinopaq Privacy of this plugin."
+msgstr "<i>Das WooCommerce Plug-In rhinopaq Shipping versendet keinerlei personenbezogene Daten von deiner Seite zu uns. Solltest du die smart rhinopaq Funktion nutzen, werden die <b>Maße</b> sowie das <b>Gewicht</b> aller im Warenkorb befindlichen Gegenstände an unseren Service beziehungsweise unsere Server gesendet. Die Daten werden dazu genutzt, um die mögliche Verwendung eines unserer rhinopaqs im Check-Out anzufragen. Sofern unser Service die Möglichkeit bestätigt, wird entsprechend positives Feedback zurück an deinen Store gesendet. rhinopaq wird dann als Versandmethode vorgeschlagen und ein Pop-up geöffnet, welches die Nutzer:in abfragt, ob sie eine Mehrwegverpackung nutzen oder bei einer Einweglösung bleiben möchte. <br>Die Daten werden von uns gespeichert, um langfristig die Güte unserer Kalkulationen bestimmen zu können und um den Service zu optimieren. Neben den Produktdaten werden für statistische Auswertungen die <b>Anzeigehäufigkeit</b> des Pop-Ups und <b>Entscheidung</b> der Nutzer:in an uns gesendet.<br> Solltest du im Admin-Bereich deiner Bestellung die <b>rhinopaq ID</b> eintragen, wird diese mit dem Abschluss der Bestellung zusammen mit der <b>Bestellnummer</b> zu uns gesendet. Diese Daten können wir dir bereitstellen, damit du nachvollziehen kannst, zu welchen Bestellungen die Mehrwegverpackungen zu uns zurückgesendet wurden.</i>"
+
+# rhinopaq-customizer.php
+
+msgid "Note: The rhinopaq option is currently disabled. Therefore, the popup cannot be displayed. Go to WooCommerce > Settings > rhinopaq in the admin area and activate the option."
+msgstr "Hinweis: Die rhinopaq-Option ist derzeit deaktiviert. Das Pop-Up kann daher nicht angezeigt werden. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere die Option."
+
+msgid "Note: rhinopaq is currently selected as the default and is added to every order. Therefore, no popup will be displayed during checkout."
+msgstr "Hinweis: rhinopaq ist derzeit als Standard ausgewählt und wird jeder Bestellung hinzugefügt. Daher wird im Check-Out kein Pop-Up angezeigt."
+
+msgid "Note: You currently have no rhinopaq sizes activated. Therefore, the popup will not be displayed in your shop. Go to WooCommerce > Settings > rhinopaq in the admin area and activate at least one rhinopaq size."
+msgstr "Hinweis: Du hast derzeit keine rhinopaq-Größen aktiviert. In deinem Shop wird das Pop-Up daher nicht angezeigt. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere mindestens eine rhinopaq Größe."
+
+msgid "Note: You currently have the smart rhinopaq function disabled. Therefore, the popup will always be displayed during the shop checkout, regardless of whether the shopping cart fits or not. Go to WooCommerce > Settings > rhinopaq in the admin area and activate the smart rhinopaq function."
+msgstr "Hinweis: Du hast die smart rhinopaq Funktion derzeit deaktiviert. Das Pop-Up wird daher im Shop-Check-Out immer angezeigt, egal ob der Warenkorb reinpasst oder nicht. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere die smart rhinopaq Funktion."
+
+msgid "Show the popup in the customizer preview. The popup preview is only visible during checkout."
+msgstr "Zeige das Pop-Up in der Customizer Vorschau an. Die Vorschau des Pop-Ups ist nur im Check-Out zu sehen."
+
+msgid "Enable popup preview"
+msgstr "Pop-Up-Preview anzeigen"
+
+msgid "Popup background color"
+msgstr "Pop-Up-Hintergrundfarbe"
+
+msgid "Popup corner radius"
+msgstr "Pop-Up-Eckenradius"
+
+msgid "Choose a corner radius for the popup between 0px and 50px"
+msgstr "Wähle einen Eckenradius für das Pop-Up zwischen 0px und 50px"
+
+msgid "Reusable packaging by rhinopaq"
+msgstr "Mehrwegverpackung von rhinopaq"
+
+msgid "Popup title"
+msgstr "Pop-Up-Titel"
+
+msgid "Popup description"
+msgstr "Pop-Up-Beschreibung"
+
+msgid "You can make a small contribution to saving resources. By choosing 'Reusable', you will receive the reusable packaging from rhinopaq instead of a disposable cardboard box. All you have to do after receiving it is to fold the packaging and throw it into the nearest mailbox. Let's reduce packaging waste together."
+msgstr "Du kannst einen kleinen Beitrag zum Einsparen von Ressourcen leisten. Bei Auswahl \"Mehrweg\" bekommst du die Mehrwegverpackung von rhinopaq statt einen Einwegkarton. Alles was du nach Erhalt tun musst, ist die Verpackung zusammen zu falten und in den nächsten Briefkasten zu werfen. Lass uns gemeinsam Verpackungsabfall reduzieren."
+
+msgid "Popup text color"
+msgstr "Pop-Up-Textfarbe"
+
+msgid "Popup image"
+msgstr "Pop-Up-Bild"
+
+msgid "Activate popup image"
+msgstr "Pop-Up-Bild aktivieren"
+
+msgid "Activate the popup image on large screens from 650px. The image will not be displayed on tablets and smartphones."
+msgstr "Aktivere das Pop-Up-Bild auf großen Bildschirmen ab 650px. Auf Tablets und Smartphones wird das Bild nicht angezeigt."
+
+msgid "Reusable packaging"
+msgstr "Mehrwegverpackung"
+
+msgid "Button size"
+msgstr "Button-Größe"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Button text (Reusable)"
+msgstr "Button-Text (Mehrweg)"
+
+msgid "Button type (Reusable)"
+msgstr "Button-Typ (Mehrweg)"
+
+msgid "Pill"
+msgstr "Pille"
+
+msgid "Rect"
+msgstr "Rechteck"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Button color (Reusable)"
+msgstr "Button-Farbe (Mehrweg)"
+
+msgid "Button text color (Reusable)"
+msgstr "Button-Textfarbe (Mehrweg)"
+
+msgid "Disposable packaging"
+msgstr "Einwegverpackung"
+
+msgid "Button text (Disposable)"
+msgstr "Button-Text (Einweg)"
+
+msgid "Button type (Disposable)"
+msgstr "Button-Typ (Einweg)"
+
+msgid "Button color (Disposable)"
+msgstr "Button-Farbe (Einweg)"
+
+msgid "Button text color (Disposable)"
+msgstr "Button-Textfarbe (Einweg)"

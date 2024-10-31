@@ -1,0 +1,94 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: rhinopaq for WooCommerce\n"
+"POT-Creation-Date: 2022-04-01\n"
+"PO-Revision-Date: 2022-04-01\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pr-dhl-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+msgid "Hinweis: Die rhinopaq-Option ist derzeit deaktiviert. Das PopUp kann daher nicht angezeigt werden. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere die Option."
+msgstr ""
+
+msgid "Hinweis: rhinopaq ist derzeit als Standard ausgewählt und wird jeder Bestellung hinzugefügt. Daher wird im Checkout kein PopUp angezeigt."
+msgstr ""
+
+msgid "Hinweis: Du hast derzeit keine rhinopaq-Größen aktiviert. In deinem Shop wird das PopUp daher nicht angezeigt. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere mindestens eine rhinopaq Größe."
+msgstr ""
+
+msgid "Hinweis: Du hast die smart rhinopaq Funktion derzeit deaktiviert. Das PopUp wird daher im Shop-Checkout immer angezeigt, egal ob der Warenkorb reinpasst oder nicht. Gehe im Admin-Bereich in WooCommerce > Einstellungen > rhinopaq und aktiviere die smart rhinopaq Funktion."
+msgstr ""
+
+msgid "Zeige das PopUp in der Customizer Vorschau an. Die Vorschau des PopUps ist nur im Checkout zu sehen."
+msgstr ""
+
+msgid "PopUp-Hintergrundfarbe"
+msgstr ""
+
+msgid "PopUp-Eckenradius"
+msgstr ""
+
+msgid "Wähle einen Eckenradius für das PopUp zwischen 0px und 50px"
+msgstr ""
+
+msgid "PopUp-Titel"
+msgstr ""
+
+msgid "PopUp-Beschreibung"
+msgstr ""
+
+msgid "Du kannst einen kleinen Beitrag zum Einsparen von Ressourcen leisten. Bei Auswahl \"Mehrweg\" bekommst du die Mehrwegverpackung von rhinopaq statt einen Einwegkarton. Alles was du nach Erhalt tun musst, ist die Verpackung zusammen zu falten und in den nächsten Briefkasten zu werfen. Lass uns gemeinsam Verpackungsabfall reduzieren."
+msgstr ""
+
+msgid "PopUp-Textfarbe"
+msgstr ""
+
+msgid "PopUp-Bild"
+msgstr ""
+
+msgid "PopUp-Bild aktivieren"
+msgstr ""
+
+msgid "Aktivere das PopUp-Bild auf großen Bildschirmen ab 650px. Auf Tablets und Smartphones wird das Bild nicht angezeigt."
+msgstr ""
+
+msgid "Button-Größe"
+msgstr ""
+
+msgid "Button-Text (Mehrweg)"
+msgstr ""
+
+msgid "Button-Typ (Mehrweg)"
+msgstr ""
+
+msgid "Button-Farbe (Mehrweg)"
+msgstr ""
+
+msgid "Button-Textfarbe (Mehrweg)"
+msgstr ""
+
+msgid "Button-Text (Einweg)"
+msgstr ""
+
+msgid "Button-Typ (Einweg)"
+msgstr ""
+
+msgid "Button-Farbe (Einweg)"
+msgstr ""
+
+msgid "Button-Textfarbe (Einweg)"
+msgstr ""

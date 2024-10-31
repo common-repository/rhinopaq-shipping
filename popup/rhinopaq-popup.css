@@ -1,0 +1,93 @@
+.rhinopop-container {
+  background: rgba(0, 0, 0, 0.3);
+  display: none;
+  position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10000;
+}
+
+.rhinopop-container.show {
+  display: flex;
+}
+
+.rhinopop {
+  display: flex;
+  width: 650px;
+  max-width: 700px;
+  overflow: hidden;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 11;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.rhinopop .img {
+  min-width: 260px;
+  display: flex;
+  overflow: hidden;
+}
+
+.rhinopop .img img {
+  object-fit: cover;
+}
+
+.rhinopop .content {
+  padding: 2.5rem 2rem;
+}
+
+.rhinopop .content h2 {
+  font-size: 2rem;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.rhinopop .content p {
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.35;
+}
+
+.rhinopop .content form * {
+  display: block;
+  width: 100%;
+  font-size: 1.1rem;
+  margin-top: 0.6rem;
+  padding: 0.7rem 0.5rem;
+  border-radius: 5px;
+  outline: none;
+}
+
+.rhinopop button{
+  font-family: inherit;
+  border: 0px solid;
+  outline: none;
+  text-align: center;
+  vertical-align: middle;
+}
+
+@keyframes animate_subs_img {
+  to {
+    filter: drop-shadow(10px 10px 25px rgba(0, 0, 0, 0.6));
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .rhinopop {
+    display: block;
+    max-width: 500px;
+    width: 90%;
+  }
+
+  .rhinopop .img {
+    min-width: auto;
+    display: none!important;
+  }
+}
